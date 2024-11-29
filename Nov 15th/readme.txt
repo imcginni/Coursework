@@ -1,0 +1,1 @@
+More file handling, this time including a graphic element.
